@@ -1,4 +1,4 @@
-name: Lint
+name: Process
 
 on:
     push:
@@ -25,4 +25,4 @@ jobs:
               uses: actions/upload-artifact@v3
               with:
                   name: generated-lookups
-                  path: ouput/*.json
+                  path: ouput
