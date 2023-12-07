@@ -14,9 +14,7 @@ const keys = ['readableName', 'deviceType', 'processorType', 'processorFamily']
 function prepare() {
     try {
         rmdirSync('./output', { recursive: true })
-    } catch (err) {
-        console.log(err)
-    }
+    } catch (err) {}
 
     mkdirSync('./output')
 }
