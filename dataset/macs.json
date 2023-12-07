@@ -94,6 +94,20 @@
         "processorType": "Apple Silicon",
         "readableName": "MacBook Pro (M2 Pro, 14-inch, 2023)"
     },
+    "Mac15,10": {
+        "deviceType": "Laptop",
+        "processorFamily": "M3 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, Nov 2023)",
+        "systemFirstRelease": "12.2"
+    },
+    "Mac15,11": {
+        "deviceType": "Laptop",
+        "processorFamily": "M3 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, Nov 2023)",
+        "systemFirstRelease": "12.2"
+    },
     "Mac15,3": {
         "deviceType": "Laptop",
         "processorFamily": "M3",
@@ -115,12 +129,61 @@
         "readableName": "iMac (24-inch, 2023)",
         "systemFirstRelease": "13.5 (22G2074)"
     },
+    "Mac15,6": {
+        "deviceType": "Laptop",
+        "processorFamily": "M3 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, Nov 2023)",
+        "systemFirstRelease": "12.2"
+    },
     "Mac15,7": {
         "deviceType": "Laptop",
         "processorFamily": "M3 Pro or M3 Max",
         "processorType": "Apple Silicon",
         "readableName": "MacBook Pro (16-inch, Nov 2023)",
         "systemFirstRelease": "14.1"
+    },
+    "Mac15,8": {
+        "deviceType": "Laptop",
+        "processorFamily": "M3 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, Nov 2023)",
+        "systemFirstRelease": "12.2"
+    },
+    "Mac15,9": {
+        "deviceType": "Laptop",
+        "processorFamily": "M3 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, Nov 2023)",
+        "systemFirstRelease": "12.2"
+    },
+    "MacBook10,1": {
+        "deviceType": "Laptop",
+        "processorType": "Intel",
+        "readableName": "MacBook (Retina, 12-inch, 2017)"
+    },
+    "MacBook5,1": {
+        "deviceType": "Laptop",
+        "processorType": "Intel",
+        "readableName": "MacBook (Late 2008)"
+    },
+    "MacBook7,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "Core 2 Duo",
+        "processorType": "Intel",
+        "readableName": "MacBook (Mid 2010)"
+    },
+
+    "MacBook8,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "Core M",
+        "processorType": "Intel",
+        "readableName": "MacBook (12-inch, Early 2015)"
+    },
+    "MacBook9,1": {
+        "deviceType": "Laptop",
+        "processorType": "Intel",
+        "readableName": "MacBook (12-inch, Early 2016)"
     },
     "MacBookAir1,1": {
         "deviceType": "Laptop",
@@ -160,12 +223,23 @@
         "systemFirstRelease": "10.7.3",
         "systemLastRelease": "10.13.6"
     },
+    "MacBookAir4,2": {
+        "deviceType": "Laptop",
+        "processorType": "Intel",
+        "readableName": "MacBook Air (Mid 2011)"
+    },
+
     "MacBookAir5,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
         "readableName": "MacBook Air (Mid 2012)",
         "systemFirstRelease": "10.7.4",
         "systemLastRelease": "10.15.7"
+    },
+    "MacBookAir5,2": {
+        "deviceType": "Laptop",
+        "processorType": "Intel",
+        "readableName": "MacBook Air (Mid 2012)"
     },
     "MacBookAir6,1": {
         "deviceType": "Laptop",
@@ -174,6 +248,12 @@
         "systemFirstRelease": "10.8.4",
         "systemLastRelease": "11.7.10"
     },
+    "MacBookAir6,2": {
+        "deviceType": "Laptop",
+        "processorType": "Intel",
+        "readableName": "MacBook Air (Mid 2013)"
+    },
+
     "MacBookAir7,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
@@ -672,6 +752,12 @@
         "systemFirstRelease": "10.8",
         "systemLastRelease": "10.15.7"
     },
+    "Macmini6,2": {
+        "deviceType": "Desktop",
+        "processorType": "Intel",
+        "readableName": "Mac mini (Late 2012)"
+    },
+
     "Macmini7,1": {
         "deviceType": "Desktop",
         "processorType": "Intel",
@@ -841,6 +927,12 @@
         "systemFirstRelease": "10.8.4",
         "systemLastRelease": "10.15.7"
     },
+    "iMac14,3": {
+        "deviceType": "Desktop",
+        "processorType": "Intel",
+        "readableName": "iMac (Late 2013)"
+    },
+
     "iMac14,4": {
         "deviceType": "Desktop",
         "processorType": "Intel",
