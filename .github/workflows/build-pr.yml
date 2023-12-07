@@ -9,8 +9,22 @@ on:
             - main
 
 jobs:
+    lint:
+        name: Lint
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+            - name: Setup Node
+              uses: actions/setup-node@v3
+              with:
+                  node-version: '16.x'
+            - run: npm install
+            - run: npx prettier . --check --config .prettierrc.json
+
     process:
         name: Process
+        needs: lint
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
@@ -43,5 +57,5 @@ jobs:
                   repo_token: '${{ secrets.GITHUB_TOKEN }}'
                   automatic_release_tag: 'latest'
                   prerelease: true
-                  title: 'Release ${{ env.NOW }}'
+                  title: '${{ env.NOW }}'
                   files: '*.json'
