@@ -26,3 +26,22 @@ jobs:
               with:
                   name: generated-lookups
                   path: output
+
+    pre-release:
+        name: 'Pre Release'
+        needs: process
+        if: github.ref == 'refs/heads/main'
+        runs-on: 'ubuntu-latest'
+        steps:
+            - name: Set current date as env variable
+              run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+            - uses: actions/download-artifact@v3
+              with:
+                  name: my-artifact
+            - uses: 'marvinpinto/action-automatic-releases@latest'
+              with:
+                  repo_token: '${{ secrets.GITHUB_TOKEN }}'
+                  automatic_release_tag: 'latest'
+                  prerelease: true
+                  title: 'Release ${{ env.NOW }}'
+                  files: '*.json'
