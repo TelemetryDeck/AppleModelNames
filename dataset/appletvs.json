@@ -1,0 +1,27 @@
+{
+    "AppleTV2,1": {
+        "deviceType": "Set-Top Box",
+        "processorFamily": "S5L8930",
+        "readableName": "Apple TV (2nd generation)"
+    },
+    "AppleTV3,1": {
+        "deviceType": "Set-Top Box",
+        "processorFamily": "A5",
+        "readableName": "Apple TV (3rd generation)"
+    },
+    "AppleTV3,2": {
+        "deviceType": "Set-Top Box",
+        "processorFamily": "A5",
+        "readableName": "Apple TV (3rd generation)"
+    },
+    "AppleTV5,3": {
+        "deviceType": "Set-Top Box",
+        "processorFamily": "A8",
+        "readableName": "Apple TV (4th generation)"
+    },
+    "AppleTV6,2": {
+        "deviceType": "Set-Top Box",
+        "processorFamily": "A10X",
+        "readableName": "Apple TV 4K"
+    }
+}

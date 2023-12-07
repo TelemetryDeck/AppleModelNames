@@ -1,0 +1,262 @@
+{
+    "iPhone1,1": {
+        "deviceType": "Phone",
+        "processorFamily": "S5L8900",
+        "readableName": "iPhone"
+    },
+    "iPhone1,2": {
+        "deviceType": "Phone",
+        "processorFamily": "S5L8720",
+        "readableName": "iPhone 3G"
+    },
+    "iPhone10,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A11",
+        "readableName": "iPhone 8"
+    },
+    "iPhone10,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A11",
+        "readableName": "iPhone 8 Plus"
+    },
+    "iPhone10,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A11",
+        "readableName": "iPhone X"
+    },
+    "iPhone10,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A11",
+        "readableName": "iPhone 8"
+    },
+    "iPhone10,5": {
+        "deviceType": "Phone",
+        "processorFamily": "A11",
+        "readableName": "iPhone 8 Plus"
+    },
+    "iPhone10,6": {
+        "deviceType": "Phone",
+        "processorFamily": "A11",
+        "readableName": "iPhone X"
+    },
+    "iPhone11,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A12",
+        "readableName": "iPhone XS"
+    },
+    "iPhone11,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A12",
+        "readableName": "iPhone XS Max"
+    },
+    "iPhone11,6": {
+        "deviceType": "Phone",
+        "processorFamily": "A12",
+        "readableName": "iPhone XS Max"
+    },
+    "iPhone11,8": {
+        "deviceType": "Phone",
+        "processorFamily": "A12",
+        "readableName": "iPhone XR"
+    },
+    "iPhone12,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A13",
+        "readableName": "iPhone 11"
+    },
+    "iPhone12,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A13",
+        "readableName": "iPhone 11 Pro"
+    },
+    "iPhone12,5": {
+        "deviceType": "Phone",
+        "processorFamily": "A13",
+        "readableName": "iPhone 11 Pro Max"
+    },
+    "iPhone12,8": {
+        "deviceType": "Phone",
+        "processorFamily": "A13",
+        "readableName": "iPhone SE (2nd generation)"
+    },
+    "iPhone13,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A14",
+        "readableName": "iPhone 12 mini"
+    },
+    "iPhone13,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A14",
+        "readableName": "iPhone 12"
+    },
+    "iPhone13,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A14",
+        "readableName": "iPhone 12 Pro"
+    },
+    "iPhone13,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A14",
+        "readableName": "iPhone 12 Pro Max"
+    },
+    "iPhone14,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A15",
+        "readableName": "iPhone 13 Pro"
+    },
+    "iPhone14,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A15",
+        "readableName": "iPhone 13 Pro Max"
+    },
+    "iPhone14,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A15",
+        "readableName": "iPhone 13 mini"
+    },
+    "iPhone14,5": {
+        "deviceType": "Phone",
+        "processorFamily": "A15",
+        "readableName": "iPhone 13"
+    },
+    "iPhone14,6": {
+        "deviceType": "Phone",
+        "processorFamily": "A15",
+        "readableName": "iPhone SE (3rd generation)"
+    },
+    "iPhone14,7": {
+        "deviceType": "Phone",
+        "processorFamily": "A15",
+        "readableName": "iPhone 14"
+    },
+    "iPhone14,8": {
+        "deviceType": "Phone",
+        "processorFamily": "A15",
+        "readableName": "iPhone 14 Plus"
+    },
+    "iPhone15,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A16",
+        "readableName": "iPhone 14 Pro"
+    },
+    "iPhone15,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A16",
+        "readableName": "iPhone 14 Pro Max"
+    },
+    "iPhone15,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A16",
+        "readableName": "iPhone 15"
+    },
+    "iPhone16,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A17 Pro",
+        "readableName": "iPhone 15 Pro"
+    },
+    "iPhone16,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A17 Pro",
+        "readableName": "iPhone 15 Pro Max"
+    },
+    "iPhone2,1": {
+        "deviceType": "Phone",
+        "processorFamily": "S5L8920",
+        "readableName": "iPhone 3GS"
+    },
+    "iPhone3,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A4",
+        "readableName": "iPhone 4"
+    },
+    "iPhone3,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A4",
+        "readableName": "iPhone 4"
+    },
+    "iPhone3,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A4",
+        "readableName": "iPhone 4"
+    },
+    "iPhone4,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A5",
+        "readableName": "iPhone 4S"
+    },
+    "iPhone5,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A6",
+        "readableName": "iPhone 5"
+    },
+    "iPhone5,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A6",
+        "readableName": "iPhone 5"
+    },
+    "iPhone5,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A6",
+        "readableName": "iPhone 5c"
+    },
+    "iPhone5,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A6",
+        "readableName": "iPhone 5c"
+    },
+    "iPhone6,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A7",
+        "readableName": "iPhone 5s"
+    },
+    "iPhone6,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A7",
+        "readableName": "iPhone 5s"
+    },
+    "iPhone7,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A8",
+        "readableName": "iPhone 6 Plus"
+    },
+    "iPhone7,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A8",
+        "readableName": "iPhone 6"
+    },
+    "iPhone8,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A9",
+        "readableName": "iPhone 6s"
+    },
+    "iPhone8,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A9",
+        "readableName": "iPhone 6s Plus"
+    },
+    "iPhone8,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A9",
+        "readableName": "iPhone SE"
+    },
+    "iPhone9,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A10",
+        "readableName": "iPhone 7"
+    },
+    "iPhone9,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A10",
+        "readableName": "iPhone 7 Plus"
+    },
+    "iPhone9,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A10",
+        "readableName": "iPhone 7"
+    },
+    "iPhone9,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A10",
+        "readableName": "iPhone 7 Plus"
+    }
+}

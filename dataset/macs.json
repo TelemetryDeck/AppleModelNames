@@ -1,0 +1,144 @@
+{
+    "Mac13,1": {
+        "deviceType": "Desktop",
+        "processorFamily": "M1 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac Studio (M1 Max)"
+    },
+    "Mac13,2": {
+        "deviceType": "Desktop",
+        "processorFamily": "M1 Ultra",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac Studio (M1 Ultra)"
+    },
+    "Mac14,10": {
+        "deviceType": "Laptop",
+        "processorFamily": "M2 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (M2 Pro, 16-inch, 2023)"
+    },
+    "Mac14,12": {
+        "deviceType": "Desktop",
+        "processorFamily": "M2 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac mini (M2 Pro, 2023)"
+    },
+    "Mac14,15": {
+        "deviceType": "Laptop",
+        "processorFamily": "M2",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (15-inch, M2, 2023)"
+    },
+    "Mac14,2": {
+        "deviceType": "Laptop",
+        "processorFamily": "M2",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (M2, 2022)"
+    },
+    "Mac14,3": {
+        "deviceType": "Desktop",
+        "processorFamily": "M2",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac mini (M2, 2023)"
+    },
+    "Mac14,5": {
+        "deviceType": "Laptop",
+        "processorFamily": "M2",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (M2 Max, 14-inch, 2023)"
+    },
+    "Mac14,6": {
+        "deviceType": "Laptop",
+        "processorFamily": "M2 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (M2 Max, 16-inch, 2023)"
+    },
+    "Mac14,7": {
+        "deviceType": "Laptop",
+        "processorFamily": "M2",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (13-inch, M2, 2022)"
+    },
+    "Mac14,9": {
+        "deviceType": "Laptop",
+        "processorFamily": "M2 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (M2 Pro, 14-inch, 2023)"
+    },
+    "Mac15,5": {
+        "deviceType": "Desktop",
+        "processorFamily": "M3",
+        "processorType": "Apple Silicon",
+        "readableName": "iMac M3 8 CPU/10 GPU/4 Ports 24"
+    },
+    "MacBookAir10,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "M1",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (M1, 2020)"
+    },
+    "MacBookAir7,2": {
+        "deviceType": "Laptop",
+        "processorFamily": "Intel Core i5",
+        "processorType": "Intel",
+        "readableName": "MacBook Air (13-inch, Early 2015)"
+    },
+    "MacBookAir9,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "Intel Core i3",
+        "processorType": "Intel",
+        "readableName": "MacBook Air (130-inch, 2020)"
+    },
+    "MacBookPro15,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "Intel Core i5",
+        "processorType": "Intel",
+        "readableName": "MacBook Pro (15-inch, Touch Bar, 2018)"
+    },
+    "MacBookPro15,2": {
+        "deviceType": "Laptop",
+        "processorFamily": "Intel Core i5",
+        "processorType": "Intel",
+        "readableName": "MacBook Pro (13-inch, Touch Bar, 2018)"
+    },
+    "MacBookPro17,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "M1",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (13-inch, M1, 2020)"
+    },
+    "MacBookPro18,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "M1 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, 2021)"
+    },
+    "MacBookPro18,2": {
+        "deviceType": "Laptop",
+        "processorFamily": "M1 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, 2021)"
+    },
+    "MacBookPro18,3": {
+        "deviceType": "Laptop",
+        "processorFamily": "M1 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, 2021)"
+    },
+    "MacBookPro18,4": {
+        "deviceType": "Laptop",
+        "processorFamily": "M1 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, 2021)"
+    },
+    "Macmini9,1": {
+        "deviceType": "Desktop",
+        "processorFamily": "M1",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac mini (M1, 2020)"
+    },
+    "VirtualMac2,1": {
+        "deviceType": "Virtual Machine",
+        "readableName": "Apple Virtual Machine 1"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "iPod1,1": {
+        "readableName": "iPod touch"
+    },
+    "iPod2,1": {
+        "readableName": "iPod touch 2"
+    },
+    "iPod3,1": {
+        "readableName": "iPod touch 3"
+    },
+    "iPod4,1": {
+        "readableName": "iPod touch 4"
+    },
+    "iPod5,1": {
+        "readableName": "iPod touch 5"
+    },
+    "iPod7,1": {
+        "readableName": "iPod touch 6"
+    },
+    "iPod9,1": {
+        "readableName": "iPod touch 7"
+    }
+}

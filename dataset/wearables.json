@@ -1,0 +1,92 @@
+{
+    "Watch1,1": {
+        "deviceType": "Wearable",
+        "processorFamily": "S1",
+        "readableName": "Apple Watch (38mm) (1st generation)"
+    },
+    "Watch1,2": {
+        "deviceType": "Wearable",
+        "processorFamily": "S1",
+        "readableName": "Apple Watch (42mm) (1st generation)"
+    },
+    "Watch2,3": {
+        "deviceType": "Wearable",
+        "processorFamily": "S2",
+        "readableName": "Apple Watch Series 2 (38mm)"
+    },
+    "Watch2,4": {
+        "deviceType": "Wearable",
+        "processorFamily": "S2",
+        "readableName": "Apple Watch Series 2 (42mm)"
+    },
+    "Watch2,6": {
+        "deviceType": "Wearable",
+        "processorFamily": "S1P",
+        "readableName": "Apple Watch Series 1 (38mm)"
+    },
+    "Watch2,7": {
+        "deviceType": "Wearable",
+        "processorFamily": "S1P",
+        "readableName": "Apple Watch Series 1 (42mm)"
+    },
+    "Watch3,1": {
+        "deviceType": "Wearable",
+        "processorFamily": "S3",
+        "readableName": "Apple Watch Series 3 (38mm, LTE)"
+    },
+    "Watch3,2": {
+        "deviceType": "Wearable",
+        "processorFamily": "S3",
+        "readableName": "Apple Watch Series 3 (42mm, LTE)"
+    },
+    "Watch3,3": {
+        "deviceType": "Wearable",
+        "processorFamily": "S3",
+        "readableName": "Apple Watch Series 3 (38mm)"
+    },
+    "Watch3,4": {
+        "deviceType": "Wearable",
+        "processorFamily": "S3",
+        "readableName": "Apple Watch Series 3 (42mm)"
+    },
+    "Watch4,1": {
+        "deviceType": "Wearable",
+        "processorFamily": "S4",
+        "readableName": "Apple Watch Series 4 (40mm)"
+    },
+    "Watch4,2": {
+        "deviceType": "Wearable",
+        "processorFamily": "S4",
+        "readableName": "Apple Watch Series 4 (44mm)"
+    },
+    "Watch4,3": {
+        "deviceType": "Wearable",
+        "processorFamily": "S4",
+        "readableName": "Apple Watch Series 4 (40mm, LTE)"
+    },
+    "Watch4,4": {
+        "deviceType": "Wearable",
+        "processorFamily": "S4",
+        "readableName": "Apple Watch Series 4 (44mm, LTE)"
+    },
+    "Watch5,1": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch Series 5 (40mm)"
+    },
+    "Watch5,2": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch Series 5 (44mm)"
+    },
+    "Watch5,3": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch Series 5 (40mm, LTE)"
+    },
+    "Watch5,4": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch Series 5 (44mm, LTE)"
+    }
+}
