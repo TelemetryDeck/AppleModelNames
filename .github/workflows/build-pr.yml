@@ -1,4 +1,4 @@
-name: Process
+name: Check, Build, Process and Release
 
 on:
     push:
@@ -41,10 +41,10 @@ jobs:
                   name: generated-lookups
                   path: output
 
-    pre-release:
-        name: 'Pre Release'
+    release:
+        name: 'Release'
         needs: process
-        # if: github.ref == 'refs/heads/main'
+        if: github.ref == 'refs/heads/main'
         runs-on: 'ubuntu-latest'
         steps:
             - name: Set current date as env variable
@@ -55,7 +55,7 @@ jobs:
             - uses: 'marvinpinto/action-automatic-releases@latest'
               with:
                   repo_token: '${{ secrets.GITHUB_TOKEN }}'
-                  automatic_release_tag: 'latest'
-                  prerelease: true
+                  automatic_release_tag: '${{ env.NOW }}'
+                  prerelease: false
                   title: '${{ env.NOW }}'
                   files: '*.json'
