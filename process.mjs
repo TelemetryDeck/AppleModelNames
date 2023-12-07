@@ -9,7 +9,14 @@ const files = [
     'wearables.json',
 ]
 
-const keys = ['readableName', 'deviceType', 'processorType', 'processorFamily']
+const keys = [
+    'readableName',
+    'deviceType',
+    'processorType',
+    'processorFamily',
+    'systemFirstRelease',
+    'systemLastRelease',
+]
 
 function prepare() {
     try {
