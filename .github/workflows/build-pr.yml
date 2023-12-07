@@ -9,8 +9,8 @@ on:
             - main
 
 jobs:
-    lint:
-        name: Lint
+    process:
+        name: Process
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
@@ -20,4 +20,9 @@ jobs:
               with:
                   node-version: '16.x'
             - run: npm install
-            - run: npx prettier . --check --config .prettierrc.json
+            - run: node process.mjs
+            - name: Upload artifact
+              uses: actions/upload-artifact@v3
+              with:
+                  name: generated-lookups
+                  path: ouput/*.json
