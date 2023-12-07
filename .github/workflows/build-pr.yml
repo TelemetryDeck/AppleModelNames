@@ -30,14 +30,14 @@ jobs:
     pre-release:
         name: 'Pre Release'
         needs: process
-        if: github.ref == 'refs/heads/main'
+        # if: github.ref == 'refs/heads/main'
         runs-on: 'ubuntu-latest'
         steps:
             - name: Set current date as env variable
               run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
             - uses: actions/download-artifact@v3
               with:
-                  name: my-artifact
+                  name: generated-lookups
             - uses: 'marvinpinto/action-automatic-releases@latest'
               with:
                   repo_token: '${{ secrets.GITHUB_TOKEN }}'
