@@ -88,5 +88,135 @@
         "deviceType": "Wearable",
         "processorFamily": "S5",
         "readableName": "Apple Watch Series 5 (44mm, LTE)"
+    },
+    "Watch5,9": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch SE (40 mm)"
+    },
+    "Watch5,10": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch SE (44 mm)"
+    },
+    "Watch5,11": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch SE (40 mm, LTE)"
+    },
+    "Watch5,12": {
+        "deviceType": "Wearable",
+        "processorFamily": "S5",
+        "readableName": "Apple Watch SE (44 mm, LTE)"
+    },
+    "Watch6,1": {
+        "deviceType": "Wearable",
+        "processorFamily": "S6",
+        "readableName": "Apple Watch Series 6 (40 mm)"
+    },
+    "Watch6,2": {
+        "deviceType": "Wearable",
+        "processorFamily": "S6",
+        "readableName": "Apple Watch Series 6 (44 mm)"
+    },
+    "Watch6,3": {
+        "deviceType": "Wearable",
+        "processorFamily": "S6",
+        "readableName": "Apple Watch Series 6 (40 mm, LTE)"
+    },
+    "Watch6,4": {
+        "deviceType": "Wearable",
+        "processorFamily": "S6",
+        "readableName": "Apple Watch Series 6 (44 mm, LTE)"
+    },
+    "Watch6,6": {
+        "deviceType": "Wearable",
+        "processorFamily": "S7",
+        "readableName": "Apple Watch Series 7 (41 mm)"
+    },
+    "Watch6,7": {
+        "deviceType": "Wearable",
+        "processorFamily": "S7",
+        "readableName": "Apple Watch Series 7 (45 mm)"
+    },
+    "Watch6,8": {
+        "deviceType": "Wearable",
+        "processorFamily": "S7",
+        "readableName": "Apple Watch Series 7 (41 mm, LTE)"
+    },
+    "Watch6,9": {
+        "deviceType": "Wearable",
+        "processorFamily": "S7",
+        "readableName": "Apple Watch Series 7 (45 mm, LTE)"
+    },
+    "Watch6,10": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch SE 2 (40 mm)"
+    },
+    "Watch6,11": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch SE 2 (44 mm)"
+    },
+    "Watch6,12": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch SE 2 (40 mm, LTE)"
+    },
+    "Watch6,13": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch SE 2 (44 mm, LTE)"
+    },
+    "Watch6,14": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch Series 8 (41 mm)"
+    },
+    "Watch6,15": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch Series 8 (45 mm)"
+    },
+    "Watch6,16": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch Series 8 (41 mm, LTE)"
+    },
+    "Watch6,17": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch Series 8 (45 mm, LTE)"
+    },
+    "Watch6,18": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch Ultra (49 mm)"
+    },
+    "Watch7,1": {
+        "deviceType": "Wearable",
+        "processorFamily": "S9",
+        "readableName": "Apple Watch Series 9 (41 mm)"
+    },
+    "Watch7,2": {
+        "deviceType": "Wearable",
+        "processorFamily": "S9",
+        "readableName": "Apple Watch Series 9 (45 mm)"
+    },
+    "Watch7,3": {
+        "deviceType": "Wearable",
+        "processorFamily": "S9",
+        "readableName": "Apple Watch Series 9 (41 mm, LTE)"
+    },
+    "Watch7,4": {
+        "deviceType": "Wearable",
+        "processorFamily": "S9",
+        "readableName": "Apple Watch Series 9 (45 mm, LTE)"
+    },
+    "Watch7,5": {
+        "deviceType": "Wearable",
+        "processorFamily": "S8",
+        "readableName": "Apple Watch Ultra 2 (49 mm)"
     }
 }
