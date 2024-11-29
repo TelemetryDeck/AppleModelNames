@@ -159,6 +159,26 @@
         "processorFamily": "A17 Pro",
         "readableName": "iPhone 15 Pro Max"
     },
+    "iPhone17,1": {
+        "deviceType": "Phone",
+        "processorFamily": "A18 Pro",
+        "readableName": "iPhone 16 Pro"
+    },
+    "iPhone17,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A18 Pro",
+        "readableName": "iPhone 16 Pro Max"
+    },
+    "iPhone17,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A18",
+        "readableName": "iPhone 16"
+    },
+    "iPhone17,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A18",
+        "readableName": "iPhone 16 Plus"
+    },
     "iPhone2,1": {
         "deviceType": "Phone",
         "processorFamily": "S5L8920",
