@@ -144,26 +144,26 @@
         "processorFamily": "",
         "readableName": "iPad Pro 12.9-inch (6th generation) (WiFi+Cellular)"
     },
-	"iPad14,8": {
-		"deviceType": "Tablet",
-		"processorFamily": "M2",
-		"readableName": "iPad Air 11 inch 6th Gen (WiFi)"
-	},
-	"iPad14,9": {
-		"deviceType": "Tablet",
-		"processorFamily": "M2",
-		"readableName": "iPad Air 11 inch 6th Gen (WiFi+Cellular)"
-	},
-	"iPad14,10": {
-		"deviceType": "Tablet",
-		"processorFamily": "M2",
-		"readableName": "iPad Air 13 inch 6th Gen (WiFi)"
-	},
-	"iPad14,11": {
-		"deviceType": "Tablet",
-		"processorFamily": "M2",
-		"readableName": "iPad Air 13 inch 6th Gen (WiFi+Cellular)"
-	},
+    "iPad14,8": {
+        "deviceType": "Tablet",
+        "processorFamily": "M2",
+        "readableName": "iPad Air 11 inch 6th Gen (WiFi)"
+    },
+    "iPad14,9": {
+        "deviceType": "Tablet",
+        "processorFamily": "M2",
+        "readableName": "iPad Air 11 inch 6th Gen (WiFi+Cellular)"
+    },
+    "iPad14,10": {
+        "deviceType": "Tablet",
+        "processorFamily": "M2",
+        "readableName": "iPad Air 13 inch 6th Gen (WiFi)"
+    },
+    "iPad14,11": {
+        "deviceType": "Tablet",
+        "processorFamily": "M2",
+        "readableName": "iPad Air 13 inch 6th Gen (WiFi+Cellular)"
+    },
     "iPad2,1": {
         "deviceType": "Tablet",
         "processorFamily": "A5",
