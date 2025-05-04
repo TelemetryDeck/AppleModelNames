@@ -119,6 +119,16 @@
         "processorFamily": "A15 Bionic",
         "readableName": "iPad mini (6th generation) (WiFi)"
     },
+    "iPad14,10": {
+        "deviceType": "Tablet",
+        "processorFamily": "M2",
+        "readableName": "iPad Air 13 inch 6th Gen (WiFi)"
+    },
+    "iPad14,11": {
+        "deviceType": "Tablet",
+        "processorFamily": "M2",
+        "readableName": "iPad Air 13 inch 6th Gen (WiFi+Cellular)"
+    },
     "iPad14,2": {
         "deviceType": "Tablet",
         "processorFamily": "A15 Bionic",
@@ -153,16 +163,6 @@
         "deviceType": "Tablet",
         "processorFamily": "M2",
         "readableName": "iPad Air 11 inch 6th Gen (WiFi+Cellular)"
-    },
-    "iPad14,10": {
-        "deviceType": "Tablet",
-        "processorFamily": "M2",
-        "readableName": "iPad Air 13 inch 6th Gen (WiFi)"
-    },
-    "iPad14,11": {
-        "deviceType": "Tablet",
-        "processorFamily": "M2",
-        "readableName": "iPad Air 13 inch 6th Gen (WiFi+Cellular)"
     },
     "iPad2,1": {
         "deviceType": "Tablet",
