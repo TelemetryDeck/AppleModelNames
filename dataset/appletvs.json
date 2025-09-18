@@ -1,4 +1,14 @@
 {
+    "AppleTV11,1": {
+        "deviceType": "Set-Top Box",
+        "processorFamily": "A12",
+        "readableName": "Apple TV 4K (2nd generation)"
+    },
+    "AppleTV14,1": {
+        "deviceType": "Set-Top Box",
+        "processorFamily": "A15",
+        "readableName": "Apple TV 4K (3rd generation)"
+    },
     "AppleTV2,1": {
         "deviceType": "Set-Top Box",
         "processorFamily": "S5L8930",
@@ -22,6 +32,6 @@
     "AppleTV6,2": {
         "deviceType": "Set-Top Box",
         "processorFamily": "A10X",
-        "readableName": "Apple TV 4K"
+        "readableName": "Apple TV 4K (1st generation)"
     }
 }

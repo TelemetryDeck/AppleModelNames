@@ -14,13 +14,17 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
-              uses: actions/checkout@v3
+              uses: actions/checkout@v4
             - name: Setup Node
-              uses: actions/setup-node@v3
+              uses: actions/setup-node@v4
               with:
-                  node-version: '16.x'
-            - run: npm install
-            - run: npx prettier . --check --config .prettierrc.json
+                  node-version: '20.x'
+            - name: Setup pnpm
+              uses: pnpm/action-setup@v4
+              with:
+                  version: 9
+            - run: pnpm install
+            - run: pnpm prettier . --check --config .prettierrc.json
 
     process:
         name: Process
@@ -28,15 +32,19 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout
-              uses: actions/checkout@v3
+              uses: actions/checkout@v4
             - name: Setup Node
-              uses: actions/setup-node@v3
+              uses: actions/setup-node@v4
               with:
-                  node-version: '16.x'
-            - run: npm install
+                  node-version: '20.x'
+            - name: Setup pnpm
+              uses: pnpm/action-setup@v4
+              with:
+                  version: 9
+            - run: pnpm install
             - run: node process.mjs
             - name: Upload artifact
-              uses: actions/upload-artifact@v3
+              uses: actions/upload-artifact@v4
               with:
                   name: generated-lookups
                   path: output
@@ -49,9 +57,10 @@ jobs:
         steps:
             - name: Set current date as env variable
               run: echo "NOW=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
-            - uses: actions/download-artifact@v3
+            - uses: actions/download-artifact@v4
               with:
                   name: generated-lookups
+                  path: .
             - uses: 'marvinpinto/action-automatic-releases@latest'
               with:
                   repo_token: '${{ secrets.GITHUB_TOKEN }}'

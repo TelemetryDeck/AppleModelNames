@@ -149,6 +149,11 @@
         "processorFamily": "A16",
         "readableName": "iPhone 15"
     },
+    "iPhone15,5": {
+        "deviceType": "Phone",
+        "processorFamily": "A16",
+        "readableName": "iPhone 15 Plus"
+    },
     "iPhone16,1": {
         "deviceType": "Phone",
         "processorFamily": "A17 Pro",
