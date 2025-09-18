@@ -1,2 +1,7 @@
 /output
 /node_modules
+
+# avoid sharing ContextKit artifacts & Claude Code settings
+.claude/
+Context.md
+Context/
