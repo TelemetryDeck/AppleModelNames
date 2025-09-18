@@ -73,3 +73,32 @@ The GitHub Actions workflow (`build-pr.yml`) automatically:
 - JSON files are automatically sorted recursively
 - 4-space indentation, single quotes, no semicolons
 - ES modules (`.mjs` extension for Node.js scripts)
+
+## Data Sources for Updates
+
+**Primary Sources:**
+- **Apple Newsroom** - https://www.apple.com/newsroom/ (official announcements and device names)
+- **adamawolf GitHub gist** - https://gist.github.com/adamawolf/3048717 (most up-to-date model identifiers like iPhone18,1)
+- **AppleDB** - https://appledb.dev/ (comprehensive device database with SoC info)
+- **EveryMac.com** - https://everymac.com/ (detailed technical specifications and processor families)
+
+**Data Update Process:**
+When asked to update data or check for updates:
+
+1. **Cross-reference sources** - Check adamawolf GitHub gist and AppleDB for new model identifiers
+2. **Verify official names** - Confirm device names and specs with Apple Newsroom
+3. **Get technical details** - Use EveryMac.com for processor families and device classifications
+4. **Update dataset files** in priority order:
+   - `dataset/iphones.json` (highest priority)
+   - `dataset/ipads.json`
+   - `dataset/macs.json`
+   - `dataset/wearables.json`
+   - `dataset/appletvs.json`
+   - `dataset/other.json`
+5. **Process and format**:
+   ```bash
+   node process.mjs
+   npx prettier . --write --config .prettierrc.json
+   ```
+
+Always confirm at least 2 sources agree on device information before adding entries.
