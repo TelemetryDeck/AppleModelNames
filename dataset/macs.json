@@ -157,6 +157,90 @@
         "readableName": "MacBook Pro (16-inch, Nov 2023)",
         "systemFirstRelease": "12.2"
     },
+    "Mac16,1": {
+        "deviceType": "Laptop",
+        "processorFamily": "M4",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, Nov 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,10": {
+        "deviceType": "Desktop",
+        "processorFamily": "M4",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac mini (2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,11": {
+        "deviceType": "Desktop",
+        "processorFamily": "M4 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac mini (2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,12": {
+        "deviceType": "Laptop",
+        "processorFamily": "M4",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (13-inch, M4, 2025)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,13": {
+        "deviceType": "Laptop",
+        "processorFamily": "M4",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (15-inch, M4, 2025)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,2": {
+        "deviceType": "Desktop",
+        "processorFamily": "M4",
+        "processorType": "Apple Silicon",
+        "readableName": "iMac (24-inch, 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,3": {
+        "deviceType": "Desktop",
+        "processorFamily": "M4",
+        "processorType": "Apple Silicon",
+        "readableName": "iMac (24-inch, 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,5": {
+        "deviceType": "Laptop",
+        "processorFamily": "M4 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, Nov 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,6": {
+        "deviceType": "Laptop",
+        "processorFamily": "M4 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, Nov 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,7": {
+        "deviceType": "Laptop",
+        "processorFamily": "M4 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, Nov 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,8": {
+        "deviceType": "Laptop",
+        "processorFamily": "M4 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, Nov 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,9": {
+        "deviceType": "Desktop",
+        "processorFamily": "M4 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac Studio (2025)",
+        "systemFirstRelease": "15.0"
+    },
     "MacBook10,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
