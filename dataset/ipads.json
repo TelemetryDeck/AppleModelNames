@@ -403,5 +403,21 @@
         "deviceType": "Tablet",
         "processorFamily": "A12Z",
         "readableName": "iPad Pro 4 (11-inch) (2nd generation) (WiFi)"
-    }
+    }  ,
+   "iPad14,8": {
+       "deviceType": "Tablet",
+       "processorFamily": "M2",
+       "readableName": "iPad Air M2 (11-inch) (Wi-Fi)"
+   },
+   "iPad15,3": {
+       "deviceType": "Tablet",
+       "processorFamily": "M3",
+       "readableName": "iPad Air M3 (11-inch) (Wi-Fi)"
+   },
+   "iPad15,7": {
+       "deviceType": "Tablet",
+       "processorFamily": "A16",
+       "readableName": "iPad (11th generation) (Wi-Fi)"
+   }
+
 }
