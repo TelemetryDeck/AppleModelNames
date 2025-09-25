@@ -173,7 +173,6 @@
         "processorType": "Intel",
         "readableName": "MacBook (Mid 2010)"
     },
-
     "MacBook8,1": {
         "deviceType": "Laptop",
         "processorFamily": "Core M",
@@ -228,7 +227,6 @@
         "processorType": "Intel",
         "readableName": "MacBook Air (Mid 2011)"
     },
-
     "MacBookAir5,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
@@ -253,7 +251,6 @@
         "processorType": "Intel",
         "readableName": "MacBook Air (Mid 2013)"
     },
-
     "MacBookAir7,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
@@ -757,7 +754,6 @@
         "processorType": "Intel",
         "readableName": "Mac mini (Late 2012)"
     },
-
     "Macmini7,1": {
         "deviceType": "Desktop",
         "processorType": "Intel",
@@ -932,7 +928,6 @@
         "processorType": "Intel",
         "readableName": "iMac (Late 2013)"
     },
-
     "iMac14,4": {
         "deviceType": "Desktop",
         "processorType": "Intel",
@@ -1086,5 +1081,41 @@
         "processorType": "Intel",
         "readableName": "iMac Pro (2017)",
         "systemFirstRelease": "10.13.2"
+    },
+    "Mac16,8": {
+        "deviceType": "Laptop",
+        "processorType": "Apple M4 Pro",
+        "readableName": "MacBook Pro (M4 Pro, 14-inch, 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,12": {
+        "deviceType": "Laptop",
+        "processorType": "Apple M4",
+        "readableName": "MacBook Air (M4, 13-inch, 2025)",
+        "systemFirstRelease": "15.3"
+    },
+    "Mac16,11": {
+        "deviceType": "Desktop",
+        "processorType": "Apple M4 Pro",
+        "readableName": "Mac mini (M4 Pro, 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac16,10": {
+        "deviceType": "Desktop",
+        "processorType": "Apple M4",
+        "readableName": "Mac mini (M4, 2024)",
+        "systemFirstRelease": "15.0"
+    },
+    "Mac15,13": {
+        "deviceType": "Laptop",
+        "processorType": "Apple M3",
+        "readableName": "MacBook Air (M3, 15-inch, 2024)",
+        "systemFirstRelease": "14.4"
+    },
+    "Mac15,12": {
+        "deviceType": "Laptop",
+        "processorType": "Apple M3",
+        "readableName": "MacBook Air (M3, 13-inch, 2024)",
+        "systemFirstRelease": "14.4"
     }
 }
