@@ -1,4 +1,14 @@
 {
+    "RealityDevice14,1": {
+        "deviceType": "Headset",
+        "processorFamily": "M2",
+        "readableName": "Apple Vision Pro (M2, 2024)"
+    },
+    "RealityDevice17,1": {
+        "deviceType": "Headset",
+        "processorFamily": "M5",
+        "readableName": "Apple Vision Pro (M5, 2025)"
+    },
     "iPod1,1": {
         "readableName": "iPod touch"
     },

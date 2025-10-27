@@ -122,24 +122,9 @@
     "iPad14,10": {
         "deviceType": "Tablet",
         "processorFamily": "M2",
-        "readableName": "iPad Air 13-inch (6th generation) (WiFi+Cellular)"
-    },
-    "iPad14,11": {
-        "deviceType": "Tablet",
-        "processorFamily": "M2",
-        "readableName": "iPad Air 11-inch (6th generation) (WiFi)"
-    },
-    "iPad14,12": {
-        "deviceType": "Tablet",
-        "processorFamily": "M2",
-        "readableName": "iPad Air 11-inch (6th generation) (WiFi+Cellular)"
-    },
-    "iPad14,13": {
-        "deviceType": "Tablet",
-        "processorFamily": "M2",
         "readableName": "iPad Air 13-inch (6th generation) (WiFi)"
     },
-    "iPad14,14": {
+    "iPad14,11": {
         "deviceType": "Tablet",
         "processorFamily": "M2",
         "readableName": "iPad Air 13-inch (6th generation) (WiFi+Cellular)"
@@ -169,20 +154,55 @@
         "processorFamily": "M2",
         "readableName": "iPad Pro 12.9-inch (6th generation) (WiFi+Cellular)"
     },
-    "iPad14,7": {
+    "iPad14,8": {
         "deviceType": "Tablet",
         "processorFamily": "M2",
         "readableName": "iPad Air 11-inch (6th generation) (WiFi)"
     },
-    "iPad14,8": {
+    "iPad14,9": {
         "deviceType": "Tablet",
         "processorFamily": "M2",
         "readableName": "iPad Air 11-inch (6th generation) (WiFi+Cellular)"
     },
-    "iPad14,9": {
+    "iPad15,3": {
         "deviceType": "Tablet",
-        "processorFamily": "M2",
-        "readableName": "iPad Air 13-inch (6th generation) (WiFi)"
+        "processorFamily": "M3",
+        "readableName": "iPad Air 11-inch (7th generation) (WiFi)"
+    },
+    "iPad15,4": {
+        "deviceType": "Tablet",
+        "processorFamily": "M3",
+        "readableName": "iPad Air 11-inch (7th generation) (WiFi+Cellular)"
+    },
+    "iPad15,5": {
+        "deviceType": "Tablet",
+        "processorFamily": "M3",
+        "readableName": "iPad Air 13-inch (7th generation) (WiFi)"
+    },
+    "iPad15,6": {
+        "deviceType": "Tablet",
+        "processorFamily": "M3",
+        "readableName": "iPad Air 13-inch (7th generation) (WiFi+Cellular)"
+    },
+    "iPad15,7": {
+        "deviceType": "Tablet",
+        "processorFamily": "A16",
+        "readableName": "iPad (11th generation) (WiFi)"
+    },
+    "iPad15,8": {
+        "deviceType": "Tablet",
+        "processorFamily": "A16",
+        "readableName": "iPad (11th generation) (WiFi+Cellular)"
+    },
+    "iPad16,1": {
+        "deviceType": "Tablet",
+        "processorFamily": "A17 Pro",
+        "readableName": "iPad mini (7th generation) (WiFi)"
+    },
+    "iPad16,2": {
+        "deviceType": "Tablet",
+        "processorFamily": "A17 Pro",
+        "readableName": "iPad mini (7th generation) (WiFi+Cellular)"
     },
     "iPad16,3": {
         "deviceType": "Tablet",
@@ -203,6 +223,26 @@
         "deviceType": "Tablet",
         "processorFamily": "M4",
         "readableName": "iPad Pro 13-inch (5th generation) (WiFi+Cellular)"
+    },
+    "iPad17,1": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 11-inch (8th generation) (WiFi)"
+    },
+    "iPad17,2": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 11-inch (8th generation) (WiFi+Cellular)"
+    },
+    "iPad17,3": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 13-inch (8th generation) (WiFi)"
+    },
+    "iPad17,4": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 13-inch (8th generation) (WiFi+Cellular)"
     },
     "iPad2,1": {
         "deviceType": "Tablet",
