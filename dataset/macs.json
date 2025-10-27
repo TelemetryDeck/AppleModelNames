@@ -122,6 +122,13 @@
         "readableName": "MacBook Air (15-inch, M3, 2024)",
         "systemFirstRelease": "14.4"
     },
+    "Mac15,14": {
+        "deviceType": "Desktop",
+        "processorFamily": "M3 Ultra",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac Studio (M3 Ultra, 2025)",
+        "systemFirstRelease": "15.3.1"
+    },
     "Mac15,3": {
         "deviceType": "Laptop",
         "processorFamily": "M3",
@@ -254,6 +261,13 @@
         "processorType": "Apple Silicon",
         "readableName": "Mac Studio (2025)",
         "systemFirstRelease": "15.0"
+    },
+    "Mac17,2": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, M5, 2025)",
+        "systemFirstRelease": "15.1"
     },
     "MacBook10,1": {
         "deviceType": "Laptop",

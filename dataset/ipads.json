@@ -194,6 +194,16 @@
         "processorFamily": "A16",
         "readableName": "iPad (11th generation) (WiFi+Cellular)"
     },
+    "iPad16,1": {
+        "deviceType": "Tablet",
+        "processorFamily": "A17 Pro",
+        "readableName": "iPad mini (7th generation) (WiFi)"
+    },
+    "iPad16,2": {
+        "deviceType": "Tablet",
+        "processorFamily": "A17 Pro",
+        "readableName": "iPad mini (7th generation) (WiFi+Cellular)"
+    },
     "iPad16,3": {
         "deviceType": "Tablet",
         "processorFamily": "M4",
@@ -213,6 +223,26 @@
         "deviceType": "Tablet",
         "processorFamily": "M4",
         "readableName": "iPad Pro 13-inch (5th generation) (WiFi+Cellular)"
+    },
+    "iPad17,1": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 11-inch (8th generation) (WiFi)"
+    },
+    "iPad17,2": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 11-inch (8th generation) (WiFi+Cellular)"
+    },
+    "iPad17,3": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 13-inch (8th generation) (WiFi)"
+    },
+    "iPad17,4": {
+        "deviceType": "Tablet",
+        "processorFamily": "M5",
+        "readableName": "iPad Pro 13-inch (8th generation) (WiFi+Cellular)"
     },
     "iPad2,1": {
         "deviceType": "Tablet",
