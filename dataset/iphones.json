@@ -209,6 +209,11 @@
         "processorFamily": "A19",
         "readableName": "iPhone Air"
     },
+    "iPhone18,5": {
+        "deviceType": "Phone",
+        "processorFamily": "A19",
+        "readableName": "iPhone 17e"
+    },
     "iPhone2,1": {
         "deviceType": "Phone",
         "processorFamily": "S5L8920",

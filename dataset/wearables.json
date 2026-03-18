@@ -199,10 +199,65 @@
         "processorFamily": "S9",
         "readableName": "Apple Watch Series 9 (41 mm)"
     },
+    "Watch7,10": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 10 (42 mm, LTE)"
+    },
+    "Watch7,11": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 10 (46 mm, LTE)"
+    },
+    "Watch7,12": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Ultra 3 (49 mm)"
+    },
+    "Watch7,13": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch SE (3rd generation) (40 mm)"
+    },
+    "Watch7,14": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch SE (3rd generation) (44 mm)"
+    },
+    "Watch7,15": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch SE (3rd generation) (40 mm, LTE)"
+    },
+    "Watch7,16": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch SE (3rd generation) (44 mm, LTE)"
+    },
+    "Watch7,17": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 11 (42 mm)"
+    },
+    "Watch7,18": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 11 (46 mm)"
+    },
+    "Watch7,19": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 11 (42 mm, LTE)"
+    },
     "Watch7,2": {
         "deviceType": "Wearable",
         "processorFamily": "S9",
         "readableName": "Apple Watch Series 9 (45 mm)"
+    },
+    "Watch7,20": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 11 (46 mm, LTE)"
     },
     "Watch7,3": {
         "deviceType": "Wearable",
@@ -216,7 +271,17 @@
     },
     "Watch7,5": {
         "deviceType": "Wearable",
-        "processorFamily": "S8",
+        "processorFamily": "S9",
         "readableName": "Apple Watch Ultra 2 (49 mm)"
+    },
+    "Watch7,8": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 10 (42 mm)"
+    },
+    "Watch7,9": {
+        "deviceType": "Wearable",
+        "processorFamily": "S10",
+        "readableName": "Apple Watch Series 10 (46 mm)"
     }
 }
