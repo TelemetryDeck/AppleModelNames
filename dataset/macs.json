@@ -269,6 +269,12 @@
         "readableName": "MacBook Pro (14-inch, M5, 2025)",
         "systemFirstRelease": "15.1"
     },
+    "Mac17,5": {
+        "deviceType": "Laptop",
+        "processorType": "A18 Pro",
+        "readableName": "Apple MacBook Neo A18 Pro 6 CPU/5 GPU 13 inch",
+        "systemFirstRelease": "26.3.0"
+    },
     "MacBook10,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
@@ -1198,11 +1204,5 @@
         "processorType": "Intel",
         "readableName": "iMac Pro (2017)",
         "systemFirstRelease": "10.13.2"
-    },
-    "Mac17,5": {
-        "deviceType": "Laptop",
-        "processorType": "A18 Pro",
-        "readableName": "Apple MacBook Neo A18 Pro 6 CPU/5 GPU 13 inch",
-        "systemFirstRelease": "26.3.0"
     }
 }
