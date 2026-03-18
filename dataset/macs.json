@@ -1198,5 +1198,11 @@
         "processorType": "Intel",
         "readableName": "iMac Pro (2017)",
         "systemFirstRelease": "10.13.2"
+    },
+    "Mac17,5": {
+        "deviceType": "Laptop",
+        "processorType": "A18 Pro",
+        "readableName": "Apple MacBook Neo \"A18 Pro\" 6 CPU/5 GPU 13\"",
+        "systemFirstRelease": "26.3.0"
     }
 }
