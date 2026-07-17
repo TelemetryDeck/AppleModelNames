@@ -269,11 +269,53 @@
         "readableName": "MacBook Pro (14-inch, M5, 2025)",
         "systemFirstRelease": "15.1"
     },
+    "Mac17,3": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (13-inch, M5, 2026)",
+        "systemFirstRelease": "26.3"
+    },
+    "Mac17,4": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (15-inch, M5, 2026)",
+        "systemFirstRelease": "26.3"
+    },
     "Mac17,5": {
         "deviceType": "Laptop",
         "processorType": "A18 Pro",
         "readableName": "Apple MacBook Neo A18 Pro 6 CPU/5 GPU 13 inch",
         "systemFirstRelease": "26.3.0"
+    },
+    "Mac17,6": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "Apple MacBook Pro (16-inch, M5 Max, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,7": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "Apple MacBook Pro (14-inch, M5 Max, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,8": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "Apple MacBook Pro (16-inch, M5 Pro, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,9": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "Apple MacBook Pro (14-inch, M5 Pro, 2026)",
+        "systemFirstRelease": "26.3.1"
     },
     "MacBook10,1": {
         "deviceType": "Laptop",
