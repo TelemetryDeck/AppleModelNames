@@ -262,6 +262,27 @@
         "readableName": "Mac Studio (2025)",
         "systemFirstRelease": "15.0"
     },
+    "Mac17,14": {
+        "deviceType": "Desktop",
+        "processorFamily": "M5 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac Studio (M5 Max, 2026)",
+        "systemFirstRelease": "27.0"
+    },
+    "Mac17,15": {
+        "deviceType": "Desktop",
+        "processorFamily": "M5 Ultra",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac Studio (M5 Ultra, 2026)",
+        "systemFirstRelease": "27.0"
+    },
+    "Mac17,16": {
+        "deviceType": "Desktop",
+        "processorFamily": "M5 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac mini (M5 Pro, 2026)",
+        "systemFirstRelease": "27.0"
+    },
     "Mac17,2": {
         "deviceType": "Laptop",
         "processorFamily": "M5",
@@ -269,11 +290,61 @@
         "readableName": "MacBook Pro (14-inch, M5, 2025)",
         "systemFirstRelease": "15.1"
     },
+    "Mac17,3": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (13-inch, M5, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,4": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Air (15-inch, M5, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
     "Mac17,5": {
         "deviceType": "Laptop",
-        "processorType": "A18 Pro",
-        "readableName": "Apple MacBook Neo A18 Pro 6 CPU/5 GPU 13 inch",
-        "systemFirstRelease": "26.3.0"
+        "processorFamily": "A18 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Neo (13-inch, A18 Pro, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,6": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, M5 Max, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,7": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Max",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, M5 Max, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,8": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (16-inch, M5 Pro, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac17,9": {
+        "deviceType": "Laptop",
+        "processorFamily": "M5 Pro",
+        "processorType": "Apple Silicon",
+        "readableName": "MacBook Pro (14-inch, M5 Pro, 2026)",
+        "systemFirstRelease": "26.3.1"
+    },
+    "Mac18,5": {
+        "deviceType": "Desktop",
+        "processorFamily": "M6",
+        "processorType": "Apple Silicon",
+        "readableName": "Mac mini (M6, 2026)",
+        "systemFirstRelease": "27.0"
     },
     "MacBook10,1": {
         "deviceType": "Laptop",
@@ -291,7 +362,6 @@
         "processorType": "Intel",
         "readableName": "MacBook (Mid 2010)"
     },
-
     "MacBook8,1": {
         "deviceType": "Laptop",
         "processorFamily": "Core M",
@@ -346,7 +416,6 @@
         "processorType": "Intel",
         "readableName": "MacBook Air (Mid 2011)"
     },
-
     "MacBookAir5,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
@@ -371,7 +440,6 @@
         "processorType": "Intel",
         "readableName": "MacBook Air (Mid 2013)"
     },
-
     "MacBookAir7,1": {
         "deviceType": "Laptop",
         "processorType": "Intel",
@@ -875,7 +943,6 @@
         "processorType": "Intel",
         "readableName": "Mac mini (Late 2012)"
     },
-
     "Macmini7,1": {
         "deviceType": "Desktop",
         "processorType": "Intel",
@@ -1050,7 +1117,6 @@
         "processorType": "Intel",
         "readableName": "iMac (Late 2013)"
     },
-
     "iMac14,4": {
         "deviceType": "Desktop",
         "processorType": "Intel",

@@ -206,13 +206,33 @@
     },
     "iPhone18,4": {
         "deviceType": "Phone",
-        "processorFamily": "A19",
+        "processorFamily": "A19 Pro",
         "readableName": "iPhone Air"
     },
     "iPhone18,5": {
         "deviceType": "Phone",
         "processorFamily": "A19",
         "readableName": "iPhone 17e"
+    },
+    "iPhone19,2": {
+        "deviceType": "Phone",
+        "processorFamily": "A20 Pro",
+        "readableName": "iPhone 18 Pro"
+    },
+    "iPhone19,3": {
+        "deviceType": "Phone",
+        "processorFamily": "A20 Pro",
+        "readableName": "iPhone 18 Pro Max"
+    },
+    "iPhone19,4": {
+        "deviceType": "Phone",
+        "processorFamily": "A20 Pro",
+        "readableName": "iPhone Duo"
+    },
+    "iPhone19,7": {
+        "deviceType": "Phone",
+        "processorFamily": "A20 Pro",
+        "readableName": "iPhone 18 Pro Max"
     },
     "iPhone2,1": {
         "deviceType": "Phone",
