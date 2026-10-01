@@ -283,5 +283,30 @@
         "deviceType": "Wearable",
         "processorFamily": "S10",
         "readableName": "Apple Watch Series 10 (46 mm)"
+    },
+    "Watch8,1": {
+        "deviceType": "Wearable",
+        "processorFamily": "S11",
+        "readableName": "Apple Watch Ultra 4 (49 mm)"
+    },
+    "Watch8,2": {
+        "deviceType": "Wearable",
+        "processorFamily": "S11",
+        "readableName": "Apple Watch Series 12 (42 mm)"
+    },
+    "Watch8,3": {
+        "deviceType": "Wearable",
+        "processorFamily": "S11",
+        "readableName": "Apple Watch Series 12 (46 mm)"
+    },
+    "Watch8,4": {
+        "deviceType": "Wearable",
+        "processorFamily": "S11",
+        "readableName": "Apple Watch Series 12 (42 mm, LTE)"
+    },
+    "Watch8,5": {
+        "deviceType": "Wearable",
+        "processorFamily": "S11",
+        "readableName": "Apple Watch Series 12 (46 mm, LTE)"
     }
 }
